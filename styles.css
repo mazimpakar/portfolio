@@ -1,0 +1,39 @@
+body{
+background-color:khaki;
+}
+h1{
+    color:#1a0000;
+    
+  }
+ 
+ h2{
+   color:#4d0000 ;
+   font-family:'Helvetica';
+    
+    font-size: 20px;
+    position: relative;
+    }
+ h3{
+   font-style:italic;
+   font-size:20px;
+   color:#4B0082;
+ }
+ img{ float: left;
+    height: 450px;
+     width: 400px;
+      margin-left: 100px;
+     position: relative;
+     flex-direction: column;
+     padding: 20px;
+     border-radius: 24px;
+    
+
+}
+
+   p{
+       font-size:20px;
+   }
+     
+     
+
+ 
