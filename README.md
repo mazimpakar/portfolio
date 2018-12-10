@@ -4,7 +4,7 @@
 ## Description
 This is my web page contains information about me and projects I have done in wecode moringa.
 ## Setup/Installation Requirements
- ## if you click to this link you go on my portfolio   https://mazimpakar.github.io/portfolio/
+ ## if you click to this link you go on my portfolio https://mazimpakar.github.io/portfolio/
 
 ## Technologies used
 * HTML 
